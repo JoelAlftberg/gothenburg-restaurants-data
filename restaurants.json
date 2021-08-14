@@ -1,0 +1,958 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aap_uEBaYt4kGPFgq5ZbMg5pDO6J5Rt9e0wRPH9BTyKljkN-JWBJd2WWRxAgaXLwfn--hYYZYjr1KwuDtUoxy7TQqcrrjiUA7Wcczv6e3RRh9H0X64D5gy9ZFmh17HCOCe5lHclPctIDnit5K3YU1y614YkTJoAX45N0VZmRHcJEkOTY0rmrSkN6pqy8VeS_u6d6Q1OpXAPjvL1w1C9aDxMIeFD4mW4nZwKwpHRe87NTk4LdQ7V36B-JoIgVo8gvL3_pEnUdau6Qh4EcI-jLbOCXyCJW820b58T8Pu70k9KTa4zQvz9NvuvjziXfukLn0qv_QTvJ5gIKRJyzwnBRyaoz46uvTWzcMXfBl4riDpfy9hSHMA3z8rE3cD-Uytx0DNfS-20zpw3Z6ft_tNBMJcHiRSsEdOGgVzIzynFyXssIUhMJ2xhmf3FEKSvRkfpegGTGB8Zg8pu1WjU",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lilla Kyrkogatan 2, 411 15 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.705267,
+               "lng" : 11.965133
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70660272989272,
+                  "lng" : 11.96638072989272
+               },
+               "southwest" : {
+                  "lat" : 57.70390307010727,
+                  "lng" : 11.96368107010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sukhothai Restaurang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 994,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113563256056618679415\"\u003eSukhothai Restaurang\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDWTJjE2fQ7H02FYh-xow0mqE_-55d9t5h3DvBJxYiITpByk1450pZHyxItz2pcAIIe-8gSCHbbMegDUY2Kmb3rqXOYJooITQqNoliMfOcHoMf6V7sxpP9QtIbaQBszXXouF23a-VsnV1i6Up9YqlhhIeACgNe0iWYj-wCwqrMJMHc1",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJ6VxndmbzT0YRay3CQXHewis",
+         "plus_code" : {
+            "compound_code" : "PX48+43 Gothenburg",
+            "global_code" : "9F9HPX48+43"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJ6VxndmbzT0YRay3CQXHewis",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 513
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kungstorget 14, 411 10 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.70344929999999,
+               "lng" : 11.9691086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70476862989272,
+                  "lng" : 11.97039057989272
+               },
+               "southwest" : {
+                  "lat" : 57.70206897010728,
+                  "lng" : 11.96769092010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "S.p.i.c.e",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111654356327665962248\"\u003eRea Castillo\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDg0guoI3VK543i-HZbAjYyKaV7-E0-fJRzAEWA-TRJOKXoZt9dCmsApx9Pl3ZDNCVNG_QftgBDIyeAHdPMXrbLK60fg42wTwOp7jWYtm9_XtjNpQRZZizpx7JDt5yg0FLUW9x7pWrM8gCi6iB3wAQ-IthrM2N0XuoZAcxAvf4zxA0s",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJVwuKeGXzT0YRN3ziGThQXhc",
+         "plus_code" : {
+            "compound_code" : "PX39+9J Gothenburg",
+            "global_code" : "9F9HPX39+9J"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJVwuKeGXzT0YRN3ziGThQXhc",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 416
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Färgaregatan 4, 411 02 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.70911040000001,
+               "lng" : 11.9832033
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.71046027989274,
+                  "lng" : 11.98443187989272
+               },
+               "southwest" : {
+                  "lat" : 57.70776062010729,
+                  "lng" : 11.98173222010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Niyom Thai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110613974109754955290\"\u003eJacob Haskoli\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAzr-vna0zRKf40_WgcPVN9-vfxasy97ZsFPBtGiRRKuDQiby-C9vMYiGV1Qxg5xANN2a2lCnWdjkpKpnEqEteCAnlOVNTn4z5ZtDy7DSID8rRPsZn7WzWrxRdTotjfMP5hfcrGs2TX79kJGS_rk2T-zlwIT32GqNB3huNKjy6esnpG",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJo9KFPnzzT0YRbfxCzsT5stA",
+         "plus_code" : {
+            "compound_code" : "PX5M+J7 Gothenburg",
+            "global_code" : "9F9HPX5M+J7"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJo9KFPnzzT0YRbfxCzsT5stA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 96
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Stampgatan 46, 411 01 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.70835090000001,
+               "lng" : 11.9862899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70967582989273,
+                  "lng" : 11.98771407989272
+               },
+               "southwest" : {
+                  "lat" : 57.70697617010728,
+                  "lng" : 11.98501442010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ullevi Thaikök",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107128170974483022900\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA4jls1h56RDTy8rufCakKAM4r4q8Rnu1rLNQAKPUZ_YFsWgqznjPo98uIzD3Qcyh8mXlnv42T3ikDXGaN47iZV5QcjvoC0dHlrPXp062mO6N88HX2ZyDGH9pqLlexe_nv_Fmi5f8BBnWLk5mDrL-t9LZuEAc7hHGmupRoVOXUG3V_4",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ8UZUyGfzT0YRYq9e1GLnw9c",
+         "plus_code" : {
+            "compound_code" : "PX5P+8G Gothenburg",
+            "global_code" : "9F9HPX5P+8G"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ8UZUyGfzT0YRYq9e1GLnw9c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 80
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Engelbrektsgatan 51, 412 52 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.69987099999999,
+               "lng" : 11.980431
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70127277989273,
+                  "lng" : 11.98170227989272
+               },
+               "southwest" : {
+                  "lat" : 57.69857312010728,
+                  "lng" : 11.97900262010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Samui Thai Kitchen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111391293552067281461\"\u003eDaniel Källström\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBPz6JFwhLBS97ewY0XIoEzLn9OSWo74ETSGG57EhhGgWbGSd4G1SeM6vJsvSIWo5c4cWpniqthRvXFoW1vzhCVDLzCnYUjKFo4gsQpCf0RyVLlC-NPaZcxAbDG9K48lOQQkZE-amwUfMQyu-p8qACykIMzf-FIZ-U5CC3QwVSjehBk",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJUwrozHDzT0YRJQanqaS87Nw",
+         "plus_code" : {
+            "compound_code" : "MXXJ+W5 Gothenburg",
+            "global_code" : "9F9HMXXJ+W5"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJUwrozHDzT0YRJQanqaS87Nw",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 471
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Mintensgatan 1, 416 63 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.7142476,
+               "lng" : 12.0019456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.71560952989272,
+                  "lng" : 12.00331797989272
+               },
+               "southwest" : {
+                  "lat" : 57.71290987010727,
+                  "lng" : 12.00061832010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restaurang Thai Nisa , Mintensgatans Thai Take Away AB",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111746832558391949035\"\u003eRobin Jokinen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDRz2uUKQlkSHoF0CEM_zlR88WxbVuZ0gfxi-hsYY1q-EntXKARrkV-QcL9ih9EsoVGzrFM0wljgUHohkNpwGsD3rHvlbKGmzRN2JxeKd9Bq-SIZx_Du3AfaNRj_4zfP8pGrixA_vOI6iielzU0I1RovFO-XQlrZWvzjBcZkBa2b5vN",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ3S6-4n70T0YRmPXGyZ0pkN0",
+         "plus_code" : {
+            "compound_code" : "P272+MQ Gothenburg",
+            "global_code" : "9F9JP272+MQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJ3S6-4n70T0YRmPXGyZ0pkN0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 195
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Viktor Rydbergsgatan 42, 412 57 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6917207,
+               "lng" : 11.9808682
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.69305302989272,
+                  "lng" : 11.98216652989272
+               },
+               "southwest" : {
+                  "lat" : 57.69035337010727,
+                  "lng" : 11.97946687010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Arojj Dii",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104254953237281952609\"\u003ecristian ormazabal\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDV1d6qbahvxzez6TT-3QJBNZdIvu0SxWKMIxzqVOh13PpyEJlZOBAgCcouqwGMeeBTi0zvvgw7zfpI8EFfxlcmDXnOdpqg0w0_B3uMbCKfAnzWdYP3CHhRh3UF7b_0Lo3k8GSSGDXO_QUKT1ek2npsgEXNGVejbavBhQNoiXv9aNN5",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJX5vM33TzT0YRCyx2D_K0hWg",
+         "plus_code" : {
+            "compound_code" : "MXRJ+M8 Gothenburg",
+            "global_code" : "9F9HMXRJ+M8"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJX5vM33TzT0YRCyx2D_K0hWg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 462
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kristinelundsgatan 9, 411 37 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6993529,
+               "lng" : 11.975369
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70076437989272,
+                  "lng" : 11.97663182989272
+               },
+               "southwest" : {
+                  "lat" : 57.69806472010728,
+                  "lng" : 11.97393217010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Moon Thai Kitchen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103472619843458556022\"\u003ewietze klijnstra\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA4iY6TsDZgAQa_v-9g7ncbUtoDzr10EwhIZ__3AMuyQbRStVrpx4algDUuhYeFYaccIsuuZ42SgQk-p7pdzGGuSzweJAiTLADlCxgRIuOx8uumkoyFBwrxI-2xA-xym93_me4AEjv9Z6eaA611jZPCigISBHZV38yzRDJfsEwWiuwS",
+               "width" : 4864
+            }
+         ],
+         "place_id" : "ChIJm999q3HzT0YR_lIM-Th8MqM",
+         "plus_code" : {
+            "compound_code" : "MXXG+P4 Gothenburg",
+            "global_code" : "9F9HMXXG+P4"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJm999q3HzT0YR_lIM-Th8MqM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2723
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Föreningsgatan 34, 411 27 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6965361,
+               "lng" : 11.9704799
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.69785202989272,
+                  "lng" : 11.97190552989272
+               },
+               "southwest" : {
+                  "lat" : 57.69515237010727,
+                  "lng" : 11.96920587010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Toui ́s Thai Kök Vasastan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 512,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101196737238586802718\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECBbnxKFuGq8vRYYwr9J0YsB0BpCkov8jXUaDmKVibBwiHSSD8Qg9LGn19dhlUs8w60MZvPH1a4Uw7PhKbS3XIRHfQcUJ1ewA6kGiOdOMMPoIq7aQwJ2bsHicYsij9je6zERWkfzgReYobliq2WRnz9yNnOVqRFGDmx7O2huJmKQRBc",
+               "width" : 664
+            }
+         ],
+         "place_id" : "ChIJm8uR1iDzT0YR1YGd_fHNqLI",
+         "plus_code" : {
+            "compound_code" : "MXWC+J5 Gothenburg",
+            "global_code" : "9F9HMXWC+J5"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJm8uR1iDzT0YR1YGd_fHNqLI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Vasagatan 5C, 411 24 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.69740959999999,
+               "lng" : 11.963754
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.69886402989272,
+                  "lng" : 11.96504932989272
+               },
+               "southwest" : {
+                  "lat" : 57.69616437010728,
+                  "lng" : 11.96234967010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Thai Prayook",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5504,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106130141094603525624\"\u003eOlsun\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBoeZrDGKB1LrRPXIncHJz3kZypFlGxtkOW5l5BvMGHneEFEiLTmYVYUzE-84_y9fUJ4ckXU_yIGICIMF9c5iU7DiVqJz1flYs5_2WOFF8ynftfnMCL4TSbz5aXOc9si0wLEoZaG7OGQ1tSPUsBWpKmfoP67sxWzdWvg17hBsJEfwIq",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJMS6HH2zzT0YRAa-TXK-oxOU",
+         "plus_code" : {
+            "compound_code" : "MXW7+XG Gothenburg",
+            "global_code" : "9F9HMXW7+XG"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJMS6HH2zzT0YRAa-TXK-oxOU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 70
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Södra Hamngatan 2, 411 06 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.70700600000001,
+               "lng" : 11.9708752
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70835582989272,
+                  "lng" : 11.97222502989272
+               },
+               "southwest" : {
+                  "lat" : 57.70565617010728,
+                  "lng" : 11.96952537010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ching Palace",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106326097669727434021\"\u003eTerés Bäregård\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAJVB9ggk0F9lqCuP-XkRC7WS00cOaHnOu5BmertiIU0DQpKiuQW6Jh1l1J8OHbkAiAht2H3ZRaE249Hut2vSeSmp9DhrVfNbOgYnXtoQyQqvNuunQA9KOrFtA0VOcJOLSBDVTssmqv9NfGHkE81XsUjvYc8DzcRtjWCZ28rrKS6SeM",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJBTn_9GTzT0YRD-HDnv0Q2eQ",
+         "plus_code" : {
+            "compound_code" : "PX4C+R9 Gothenburg",
+            "global_code" : "9F9HPX4C+R9"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJBTn_9GTzT0YRD-HDnv0Q2eQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1382
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Risåsgatan 5, 411 22 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6944434,
+               "lng" : 11.9563209
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.69576362989272,
+                  "lng" : 11.95763882989272
+               },
+               "southwest" : {
+                  "lat" : 57.69306397010728,
+                  "lng" : 11.95493917010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Totto's Thai Food & Take Away AB",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107224796125393316838\"\u003eChristoffer Bergenstråhle\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECjdKG8Ec_9SrFyymWcBVFynq7BV2LRWbOCAU43b9kOrMU3V-jxLnku0eSOMlgRQj2VVn936bHlBrw5jlIXk9bJlmITNIl3Rj41hb9O8BdgXdBPPqNZXNZDsqFIgWDelX9UV9A8iK3viopeYmai8yGxroZiunZiuyp4vQDhWgpwypnb",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4eagHmvzT0YRWDLjFY-xcmk",
+         "plus_code" : {
+            "compound_code" : "MXV4+QG Gothenburg",
+            "global_code" : "9F9HMXV4+QG"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJ4eagHmvzT0YRWDLjFY-xcmk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 99
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hjalmar Brantingsgatan 17, 417 18 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.7209838,
+               "lng" : 11.939688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.72233362989272,
+                  "lng" : 11.94103782989272
+               },
+               "southwest" : {
+                  "lat" : 57.71963397010727,
+                  "lng" : 11.93833817010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Thai Spice",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102396432507175802628\"\u003eDavid Lexell\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBh5wDOYqxmU6YFxNqgkc8aVKpnSZrQuFasI_LFechhdmb4qjwkBMSgD-4sxbPwAhB8YLFu-pAIZSyEwjlNIeNiyfmV8c8PYis7bN5zYUXB-kk2iW-yuyVdTpbSDMmbJcaKB5mAEjLGoIQZ37CQTd14kD-96A8RJGL9steLQT-GQQnk",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJrX09Eqn0T0YR2Z4yF3nMJQM",
+         "plus_code" : {
+            "compound_code" : "PWCQ+9V Gothenburg",
+            "global_code" : "9F9HPWCQ+9V"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJrX09Eqn0T0YR2Z4yF3nMJQM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 113
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Brämaregatan 1, 417 04 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.71880739999999,
+               "lng" : 11.9495244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.72011022989272,
+                  "lng" : 11.95087247989272
+               },
+               "southwest" : {
+                  "lat" : 57.71741057010728,
+                  "lng" : 11.94817282010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Thai Family Kitchen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 969,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108410228424765532256\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA44gmn5tUooAMy1E7bYJ_szB71sPaJyFoQmNrMIZH3tz-wCuIuPjdlMD2sTXUxwVA17fiTLClYgDjvUzCXoWIXUXV593vo7XgYql_z1k2AXOqeVb7klNNBb4XKcxLKv4NMrL2gtYj6skpN5GsY26E2DVAE0FGLI9FCYwcdUO-BZPqf",
+               "width" : 934
+            }
+         ],
+         "place_id" : "ChIJnRfBqaf0T0YRRL3AOct5lE8",
+         "plus_code" : {
+            "compound_code" : "PW9X+GR Gothenburg",
+            "global_code" : "9F9HPW9X+GR"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJnRfBqaf0T0YRRL3AOct5lE8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 91
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hisingsgatan 21, 417 03 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.71821720000001,
+               "lng" : 11.9452918
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.71956702989272,
+                  "lng" : 11.94664162989272
+               },
+               "southwest" : {
+                  "lat" : 57.71686737010728,
+                  "lng" : 11.94394197010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Tawan Thai Kitchen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113483292683524710511\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAj-ysFNArL0mfUwYmAn4cxjr7WUFkPr4SeYOOTGu8PDzV5TFWMNBhvYG3-Y857pcylP2d_Nqwo2_yskzQyrCpG-cR8sjtuHJbpyNEZpdlaTIBzimAiGRWWb8fWTwA3NQJD3B3rhXEy_l0dz6BSpX5ZsDbLyOVCncBuyXHXThpU3ve9",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJlzGNDnn1T0YRPoAHoBMS8Nc",
+         "plus_code" : {
+            "compound_code" : "PW9W+74 Gothenburg",
+            "global_code" : "9F9HPW9W+74"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJlzGNDnn1T0YRPoAHoBMS8Nc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 59
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Andra Långgatan 21, 413 28 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.69913759999999,
+               "lng" : 11.9477361
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.7004874298927,
+                  "lng" : 11.94908592989272
+               },
+               "southwest" : {
+                  "lat" : 57.69778777010726,
+                  "lng" : 11.94638627010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Bangkok Kitchen Göteborg",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110541134041982491901\"\u003eVi Vo\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDKRwURRF6o0yp-JtKSiN6z88T8_kWi1mqCHMxXzS3XrKFZ0Cw0yNN5u8FtP1smmXiV9i1rcWhG8C8lm6WgbJsa02F0BT9Al3CJ_C2WpyirIrH3q1NaKKfXEKCriKdY4mswoh5qz_Dx2SrLrHwkpAXYJM374rRFDWSnuYj_zF3ZiOGo",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJE18eY0HzT0YRUmd487GvENM",
+         "plus_code" : {
+            "compound_code" : "MWXX+M3 Gothenburg",
+            "global_code" : "9F9HMWXX+M3"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJE18eY0HzT0YRUmd487GvENM",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 521
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Utlandagatan 2, 412 82 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6902836,
+               "lng" : 11.9889803
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.69156902989272,
+                  "lng" : 11.99024957989272
+               },
+               "southwest" : {
+                  "lat" : 57.68886937010728,
+                  "lng" : 11.98754992010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Thaimums Take Away",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117613683020449131090\"\u003eRaggeK\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECmMCSqM6d8BrJ9Wm73CnYHQRQtWcy-7fVO4MxRSwPCGWMByXA5IrRfgAqiIwWM7lxUXt96nGiuXBrxwi8v0OUzk6MRMMAAy8YYH9OeAPeUrT76SSMlwJdGnGWAWbkZPMHB-v2b6wH7CCXJi7BWOYdaGshzsNKhEVrb49E2ERLARJPA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJzzrNnJ_zT0YRiwxCkTJ8v84",
+         "plus_code" : {
+            "compound_code" : "MXRQ+4H Gothenburg",
+            "global_code" : "9F9HMXRQ+4H"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJzzrNnJ_zT0YRiwxCkTJ8v84",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 112
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Anders Personsgatan 7, 416 48 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.7111644,
+               "lng" : 11.995335
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.71248312989272,
+                  "lng" : 11.99678792989272
+               },
+               "southwest" : {
+                  "lat" : 57.70978347010727,
+                  "lng" : 11.99408827010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sweet N' Spicy Thai Kitchen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101155348277170035749\"\u003eyasser swed\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDgccXnBFn2PFbiNcXn_P6htpyZMsRN0SHLVO4iAkDyFvvN6tPzbyY-M6MY_7aeIMgu03Nz4nDIVptR9PUnXrC5rF2y8HvUntn91UJCkPs46_A6_K1e1MJ_6s1K3dURls63WC4JYd5DxwD-VNNmyXY2DJWwMnWEZ0b-6ffgfhXYKFSh",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJvwVHG4DzT0YRrp7Zv2LHtz8",
+         "plus_code" : {
+            "compound_code" : "PX6W+F4 Gothenburg",
+            "global_code" : "9F9HPX6W+F4"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJvwVHG4DzT0YRrp7Zv2LHtz8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 86
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Andra Långgatan 24, 413 28 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.69886200000001,
+               "lng" : 11.946816
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70021182989272,
+                  "lng" : 11.94816582989272
+               },
+               "southwest" : {
+                  "lat" : 57.69751217010728,
+                  "lng" : 11.94546617010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mae Krua",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118016656947220179303\"\u003eMansoor Pasha\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA8qNPtgngxh8us-4_zjn0pIip8PydzXK-iDesA1dJlq8J3PiX-hd0bmh7IorgbBbyskdqJifqwQw9uRF9s0e_zNV099yGwhQPy0H0P83MVGHsPtGJ7ebKuIE4AflKeVxs4aLDYVahagPbsTwdUwPNDNv3NXsLADT1MXvAlC5pHhjXu",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVwEXZ0HzT0YRFKDTeZL2Bzo",
+         "plus_code" : {
+            "compound_code" : "MWXW+GP Gothenburg",
+            "global_code" : "9F9HMWXW+GP"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJVwEXZ0HzT0YRFKDTeZL2Bzo",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 151
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ceresgatan 22, 417 58 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.70792590000001,
+               "lng" : 11.9332213
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70918897989274,
+                  "lng" : 11.93485032989272
+               },
+               "southwest" : {
+                  "lat" : 57.70648932010729,
+                  "lng" : 11.93215067010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Lai Thai Restaurang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106288811342741787375\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBtGrSxLVhJrJtj9NhH11T_ai3deKhsCMxvq4dziXZpS1Vg290M2Wxb7nUHL5XHTPyfTB03_g3HPIodcFKuLQo9-B0pBYJyaaV2UbrRNsa4C6xREgR7dmepoclIsi3eeQabGsS01awU_VxcPtyGWCMJyyNMl1qTLn3gVzGeSkgVYFXS",
+               "width" : 1908
+            }
+         ],
+         "place_id" : "ChIJkVvqv1HzT0YRZ89okoWTBws",
+         "plus_code" : {
+            "compound_code" : "PW5M+57 Gothenburg",
+            "global_code" : "9F9HPW5M+57"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJkVvqv1HzT0YRZ89okoWTBws",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 196
+      }
+   ],
+   "status" : "OK"
+}
