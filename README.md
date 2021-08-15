@@ -9,6 +9,7 @@ A python project that uses the Google Places API to collect all the opening hour
 - Visualize the data
 - Clean formatted address to just include the street 
 - Clean opening hours to contain numbers only
+- Join tables on place_id
 
 ## 1. Getting the data
 
