@@ -1,6 +1,6 @@
 {
    "html_attributions" : [],
-   "next_page_token" : "Aap_uEC4u5cRlKY2d-ZfKHZOx3rz3LCoLmyqd1k412iIsCzgWR5vMGrkg96kdD-Cp_M9_6uqnZPaoQbmquN_YI5qXt8ZvoQ9AjXK27xUVgsNKisjZoEQPcb2l7NuBzvSLh3sl_EKl7rz90JgXhnupUCJ6w5jb0J3516Ik27_8GLIr6cNbivMfSVU9QRejOWHycDVC2_c-G4mx7mPitrx8STZRRy_5uPmNklUdkHyYr0ph9mJ_2OACLLbQjWQ3d1xQ7s1eGJgJPFlsqUbDKAxkurlHh7Gky_EdWWhWwRFHgd4lHO7QOugJEDhOaPDLo-BCm1GVyWx_iEZ2rrKcXiXgziEQAjb2E4y-s6bQCEd4wBJNR7OpCs_i80D4qcXK6By0v7hS_7G1c2gkKDa3RCbAgK-3dv_VWy7QxOgQJ4YHTCnudAAPZd77mM3j0a-6-nACZxCCQbm5mV0fZNZ9A",
+   "next_page_token" : "Aap_uEAV2_4Jyuqfg2VF-EHxQCvfhg1k-uQeekBOHHfGNXAX2Br05sw00EXAds1ItWi_9YF6WvYnyscyZ-MgyZ-EHdIkyCcPa6Wxw46sWZLUyhd960vxLr88_tzIjWNjNIoEltqMkApa74TdkDXth_gjYvN_-J6bSUffZXeD7atskJGGVA59S5tjNyJimXwyUG64qMzEFQNEgXzC_cLWiV-fnE78HdhGtJb9v5V4FlwGFDkne574b77c4Y74BcN-G3nkuiFX379zX8rnSCOQgm841w4KEycYHpWyD2fkbTCU08EvWu6aHWCMiUhfoZtN6QxJsl9YvFQAry4ZEtFX8kgrxWF1bUBmHS4nX1LNNVRrlddfHChf-YEIj8klySRDmJyBuKoixVDaHMIKw0tXdXC2ElvPdatjJnGHm3Y8qC2wlufC_TKqoPNrc5t9NlRai_0pJRcKB5WNjZJNrQ",
    "results" : [
       {
          "business_status" : "OPERATIONAL",
@@ -26,7 +26,7 @@
          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
          "name" : "Stockyard Burger Joint",
          "opening_hours" : {
-            "open_now" : true
+            "open_now" : false
          },
          "photos" : [
             {
@@ -34,7 +34,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/115016543284687871607\"\u003eDennis Presutti\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uEA982V0k2EhELTw1Z-3OKfFc4Aw-YvdJzDyVS0RzVaYRG-kobL42okQji8uTbZDALuzXvnGP0vrrYKlOWhNRq9EkhTQ39vYPfDHHClk6RZUajLkQd1QvK55KTHwhLG0XfdoeRT2wUffx4fKsflEC2zN266ni6vHobw6TvNuLBca49K2",
+               "photo_reference" : "Aap_uECl4fzgBM3jMdmviud5mybx6ddwMoBAFepicIcYXHub1wbCl4Tu6--QEn9lmn0uf_tMuwrWuQgWhSa7lDm3b2f-HezvsI2hEqcYBADfTDuJTQm_939ris7xxqOrsQE3p26PlXLW6qH2AoS4YerkKHPR4cDHSTnRHDuPCyx8GT86-nqF",
                "width" : 4032
             }
          ],
@@ -47,148 +47,7 @@
          "rating" : 4.3,
          "reference" : "ChIJsVTFD3DzT0YRH5WMvE6q5kQ",
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 888
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "formatted_address" : "Magasinsgatan 5, 411 18 Göteborg",
-         "geometry" : {
-            "location" : {
-               "lat" : 57.704413,
-               "lng" : 11.961903
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 57.70577662989271,
-                  "lng" : 11.96333117989272
-               },
-               "southwest" : {
-                  "lat" : 57.70307697010727,
-                  "lng" : 11.96063152010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-         "icon_background_color" : "#FF9E67",
-         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-         "name" : "2112",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 3456,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/102308225655005799048\"\u003eAddiped Cheng\u003c/a\u003e"
-               ],
-               "photo_reference" : "Aap_uEC-hVYio-WJ4pBjmHBl1TLfO7O5e6Xp1GlJhpmXwGqU5Xzh8Oog-H6YFVcafkXS-4BLhOteQo8HAN5eA-n5tN6r2lEZvtWE7-HI4nJL8r8_PdPeU3sGKEp0MzVL2dC1vOrnhbLPU2aB-KXSr1Jy83JBDmrfDZ4vJCpLV-QMa4p_cJl3",
-               "width" : 4608
-            }
-         ],
-         "place_id" : "ChIJPSytJGbzT0YRKUOpf_qtaeM",
-         "plus_code" : {
-            "compound_code" : "PX36+QQ Gothenburg",
-            "global_code" : "9F9HPX36+QQ"
-         },
-         "price_level" : 2,
-         "rating" : 4.5,
-         "reference" : "ChIJPSytJGbzT0YRKUOpf_qtaeM",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 1913
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "formatted_address" : "Andra Långgatan 14, 413 28 Göteborg",
-         "geometry" : {
-            "location" : {
-               "lat" : 57.6991089,
-               "lng" : 11.9488164
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 57.70045872989272,
-                  "lng" : 11.95016622989272
-               },
-               "southwest" : {
-                  "lat" : 57.69775907010728,
-                  "lng" : 11.94746657010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-         "icon_background_color" : "#FF9E67",
-         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-         "name" : "The Burger - Beer & Stuff",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 4032,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/114827982179996538899\"\u003eShane Koo\u003c/a\u003e"
-               ],
-               "photo_reference" : "Aap_uEBg8mFyF0NuSWSyTL6rWGiYnS_tYx0yG2CQ4sJknqdSc4tXYTMNccyUhZ6k_9jcM0SXtfp3hv0zlfUZC17Ljoa0BupUP8qCaLzP7MXo-EbNASxl7Ykp1FMD6wdfPUAerpTUzB9WWXbdVkGdDZ_PZs2lO2sIlOqCECK0-zmmCsA4V7p_",
-               "width" : 3024
-            }
-         ],
-         "place_id" : "ChIJ4c2vf0HzT0YRNe6bEJtL_so",
-         "plus_code" : {
-            "compound_code" : "MWXX+JG Gothenburg",
-            "global_code" : "9F9HMWXX+JG"
-         },
-         "price_level" : 2,
-         "rating" : 4.1,
-         "reference" : "ChIJ4c2vf0HzT0YRNe6bEJtL_so",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 619
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "formatted_address" : "Kyrkogatan 11, 411 15 Göteborg",
-         "geometry" : {
-            "location" : {
-               "lat" : 57.7043737,
-               "lng" : 11.9627703
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 57.70575892989271,
-                  "lng" : 11.96410077989272
-               },
-               "southwest" : {
-                  "lat" : 57.70305927010727,
-                  "lng" : 11.96140112010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-         "icon_background_color" : "#FF9E67",
-         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-         "name" : "The Barn",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 4032,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/105107106064049391724\"\u003eStefan Liebich\u003c/a\u003e"
-               ],
-               "photo_reference" : "Aap_uECRDkkyVH_2KwLWjdRhUKu0KyzwHCAo5J4_ecN3SAGo-zjdL2ebBWrI5fQJ-02AGXf3kTngihf3MXjbzdcHe9ce8jYGmmrOECd6Leg-7dniKgdjNVl6cuzY4PxOpUqI5_96dPxxedVduW1iXu1Apv1i3cvALt54hJsW2GSozGJadW5e",
-               "width" : 3024
-            }
-         ],
-         "place_id" : "ChIJK1IOMyqw6UMRzqyaMNgiVds",
-         "plus_code" : {
-            "compound_code" : "PX37+P4 Gothenburg",
-            "global_code" : "9F9HPX37+P4"
-         },
-         "price_level" : 2,
-         "rating" : 4.5,
-         "reference" : "ChIJK1IOMyqw6UMRzqyaMNgiVds",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 2393
+         "user_ratings_total" : 889
       },
       {
          "business_status" : "OPERATIONAL",
@@ -222,7 +81,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/100602788499025197222\"\u003eElias /\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uEAHl4cPOJmnRiTIFKJOmAd8PoMUoQJLxzL7f9YeEtxDN3zIgMIZwAcOR4BtabZwSO_TVc5iNadF25JlNN8zS1E0aGkcXwwiYjsb0hmTkuPcdOR-CZvGfq0boMJPeVMIdNz3fpCWmOLmBQNVl7QxjKwydr4sSuEIo38BZD19vlGwWnGS",
+               "photo_reference" : "Aap_uEDumhpdYBunBqLT7-zjuFsNsY207r9LGbTHiLR4hSStqT85H0ZrsAhzyT9l2M1Y9lCZQ9jIWEqOV6Kx59irUWW7SA2nCA5vVgUsJqRdHU0EEifh2ksfkFoQTlQS2CJVOFpQnOTIueGhjMaRGChKz07-aAVOuaRTSa-dXg-mdCbDYwXa",
                "width" : 750
             }
          ],
@@ -235,7 +94,7 @@
          "rating" : 4.4,
          "reference" : "ChIJq2LaBCjzT0YRi-8wBQsPM3E",
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 926
+         "user_ratings_total" : 927
       },
       {
          "business_status" : "OPERATIONAL",
@@ -269,7 +128,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/104582774368725447835\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uEBfkCNyawqe651VfezyQi2lydfeLG-db89T0nR-ZBpvJA2mjT-ASuLchHtNaH0IuUhcjRaX1NCk3sGniImQF--WIKrHG9P6RiB9QY7efANW8y7hJUI7dxMu2gL7gt1SmsQFnOFlEadM9vFl63r2Pv3UtkiDVd9MoYSS1J7ci9Dor2k",
+               "photo_reference" : "Aap_uEB4O81v6csIXd6paFQMnccA9zloLZE3G08SFs9A4O3xhqgFWR6BAslaZysRkUbJxgGfwvQaEriLjneevgn6eSywZoTSVu8n-vbWyvzjAXg90x8PSPAlbb4Ktntl4H0bcR3cogRpN_MhFo7tIQtGTdkhfms1SdY9xlRNFOPCYm15XmQ",
                "width" : 3024
             }
          ],
@@ -316,7 +175,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/108858035618411468460\"\u003eGhassan Alahmad\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uEAASSDOFuwA2lIpbpAmvgjz6OPTByq4hh93T07BCNewQGUe1zsKHnyv6W9Qm0_A0STm0qm7TsiwxBu58toWQ4hq_xOQotGOLuEGVaZAn-im0fdzqoCQ5PuR99ESwo_jw7bmehhLeNcEtb9MMn4AMrkybifWSOEnrHCi8hW6vHp5MjYS",
+               "photo_reference" : "Aap_uEDBGprti8Ezzm3pYracyIuBvjO8GRjqKjCXKWQ6PjYO5wYnCItb12KU9LUN-06XvvjXsyPWIVaD-GtrwY_UDd_vSWEJLFs7X9XvA8h_v0kh_oqBMGANDfwOhcewj8frtJy3BvrjZQZtpBicc_hnlJefqIzdB2w9qUo8RiEgcpXn85KL",
                "width" : 2736
             }
          ],
@@ -363,7 +222,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/100442165182441961842\"\u003eAnne Bondesson\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uECZnS9pxvWTZdG3o9kSGb8nJqCASHHMeQdl4LS8TQVhFOJ51JLlzBTtoEzIPDUdRcH781yAB-GCFixXd575y9iKv-ptMi6XPKZX9n_-x4SRWTIkEjRAUDg-qjQp4pZsqq0Ey4dQLkWZXEbflJyR-W4Oq70cpsHOsjyAbSzuRVPFtBax",
+               "photo_reference" : "Aap_uEAUxs10pLlmcodF4GpOlAJtVY04mK5oYZWdEQ7GMaYSnsaIyHnDHBxzVKS3RF_tc3fdciLFuikC_wX1ZE0JaGGLD0A1G28ksZ8oWFj5KrzwmcU4Ql7CmNS9bhqC6aFbiIel5Uy_roGyPne5idPXKIri8_VkKmmB5EIAzmkrUv0008sy",
                "width" : 1902
             }
          ],
@@ -377,100 +236,6 @@
          "reference" : "ChIJ22Wom6_zT0YRroSDRonvRPc",
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 349
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "formatted_address" : "Kungsportsavenyen 14, 411 36 Göteborg",
-         "geometry" : {
-            "location" : {
-               "lat" : 57.7011347,
-               "lng" : 11.9746033
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 57.70240762989273,
-                  "lng" : 11.97576502989272
-               },
-               "southwest" : {
-                  "lat" : 57.69970797010728,
-                  "lng" : 11.97306537010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-         "icon_background_color" : "#FF9E67",
-         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-         "name" : "Burger King",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 3024,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/114118451392288609524\"\u003ePaco Valera\u003c/a\u003e"
-               ],
-               "photo_reference" : "Aap_uEANQ6mGmls1hCXwRwdidrIm4Vu_3vRd9Neyp3wRUzoQoYw8hsOr2oTA1NShnKNzENwat_qCBfYAhOZl1qiCTQWpzf_7hEWiTkAW1fCftCHWaXRMGfYfS6OZsdwkbRHWjDet6wxINCWZGxP7WgSyaOLOyGubiZ5x3yT9kkxx6ncbuu4k",
-               "width" : 4032
-            }
-         ],
-         "place_id" : "ChIJ2z6fanDzT0YRmAxGTu1WzKM",
-         "plus_code" : {
-            "compound_code" : "PX2F+FR Gothenburg",
-            "global_code" : "9F9HPX2F+FR"
-         },
-         "price_level" : 2,
-         "rating" : 3,
-         "reference" : "ChIJ2z6fanDzT0YRmAxGTu1WzKM",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 1215
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "formatted_address" : "Gunnar Grens Plats 1, 411 40 Göteborg",
-         "geometry" : {
-            "location" : {
-               "lat" : 57.7068422,
-               "lng" : 11.9792363
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 57.70823402989272,
-                  "lng" : 11.98050517989272
-               },
-               "southwest" : {
-                  "lat" : 57.70553437010728,
-                  "lng" : 11.97780552010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-         "icon_background_color" : "#FF9E67",
-         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-         "name" : "MAX",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 3024,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/111436295159992620547\"\u003eJohn Blomberg\u003c/a\u003e"
-               ],
-               "photo_reference" : "Aap_uEAKaSN8Ecp87vKl7__TkkDjTu67N8R7OdDOyIQqtmKSmlFj-NY9lbjSrGeE7ChvCZwcmep7L4bQQg59XNzCB5V2aGSe-aZEY2yncJsaKN_seYYExwp7gdyxV3qDirGWq5EZJ-mw7WduPjBOPWSZ3i8q_VQwqF1qy3jkVrkxjq9O5aQu",
-               "width" : 4032
-            }
-         ],
-         "place_id" : "ChIJdeEVFbqOT0YRDgM_GQyRlVc",
-         "plus_code" : {
-            "compound_code" : "PX4H+PM Gothenburg",
-            "global_code" : "9F9HPX4H+PM"
-         },
-         "price_level" : 2,
-         "rating" : 4,
-         "reference" : "ChIJdeEVFbqOT0YRDgM_GQyRlVc",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 2756
       },
       {
          "business_status" : "OPERATIONAL",
@@ -496,7 +261,7 @@
          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
          "name" : "Burgersson",
          "opening_hours" : {
-            "open_now" : false
+            "open_now" : true
          },
          "photos" : [
             {
@@ -504,7 +269,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/114358940825199104456\"\u003eFrederic Piccoli\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uECXKEzvkN0JN7OSg104x4X1-3ttkHOwytctEzgCHXidMYVUnbTfRhJDKUJPBUjURAVK8ku1yJuLmqmy8H1KdUhUlTYeUAAqvOb5pw2jpl_rqLCAAQjFVNUDIplkraViMQFzVOluLVA_ArugkX67O2vVTXvFkIGgmSnxdCBh6dLHjJwJ",
+               "photo_reference" : "Aap_uEB9FajL8GdrB-HR5Iq3mfKaVRb2wJzhc2RG9K236UXhbot8FAFaW7Sv9Ru4-SPQW9anH4lW6luw0Ujr80OWScP0U5KNNbPZb_qhsN7MzIuv8eSkp41HHAGSefwTiVCeWilvipsmEfxPphVGgz9VAE9_wz5ZvetLLT-mrWcMuNDkHjf7",
                "width" : 3024
             }
          ],
@@ -543,7 +308,7 @@
          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
          "name" : "Burger Mansion Göteborg",
          "opening_hours" : {
-            "open_now" : false
+            "open_now" : true
          },
          "photos" : [
             {
@@ -551,7 +316,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/103833496626206594192\"\u003eMilad Kouchek\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uECt9g62hSxByncOlz2khzkjXMf3T2h25R30bCWkEujQOTth6Cxq9Ws5Swoy8X6Eg2JvXMnjiQ2AOl7-MTrldBi6EtpE5ZrniaVKZzau7Ml1rNJo8LRKTxIJyiquGJcQftl7mTjFqlYzZ--vOVzfaqhHurDdNXxOigOov27t4dNuWK6n",
+               "photo_reference" : "Aap_uEA-6ASFjGkGvk90WbZWQNhkJgqJ3Rt2_MfsZx_S1drgYoU0qux_JD8V1Z4f5Tv8TXSHyXBk962tp1iXS3wv4GmXFr785B5Mn5sEWfAInAyd8Bf3L3x7eOtHZ9UNYxRiNFWEYpQ9Tt_JquQGXFsKUOSHA8kFlsNzuzIWoTV0XmBqWVqk",
                "width" : 3024
             }
          ],
@@ -564,6 +329,100 @@
          "reference" : "ChIJRZARJXzzT0YRvW3cV1T8eRw",
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 128
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Magasinsgatan 5, 411 18 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.704413,
+               "lng" : 11.961903
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70577662989271,
+                  "lng" : 11.96333117989272
+               },
+               "southwest" : {
+                  "lat" : 57.70307697010727,
+                  "lng" : 11.96063152010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "2112",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102308225655005799048\"\u003eAddiped Cheng\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB0ke2sWv2SW6EFvx5onjaKwPGTVaFaz1OwoJkWJ-pxygW2YS6yCYdYB5Lk5Mbbvt09zcFY-BAeK1mU_XpGsMUaXFYYEA3L_gn2VOOsMPdlxjAJxo6NG1H-S4P3GEvEKZrDqOT_LRKqvhPNPAhNc9XFe4Q6AftAfiPyVzzgHCU8ejUD",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJPSytJGbzT0YRKUOpf_qtaeM",
+         "plus_code" : {
+            "compound_code" : "PX36+QQ Gothenburg",
+            "global_code" : "9F9HPX36+QQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJPSytJGbzT0YRKUOpf_qtaeM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1914
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Andra Långgatan 14, 413 28 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6991089,
+               "lng" : 11.9488164
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70045872989272,
+                  "lng" : 11.95016622989272
+               },
+               "southwest" : {
+                  "lat" : 57.69775907010728,
+                  "lng" : 11.94746657010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Burger - Beer & Stuff",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114827982179996538899\"\u003eShane Koo\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC19rEutHLVVxJ1n6dY7I-KgixV3PZtGnGKr4RBcqRfZaG5M1tDa0W26rCtX4hwoT6NtDZqAHTTmEwcW8gMRu9two1EY9fkmywDXy2cp5z8xwinzGqJjK_YcPSF2r2byG2kuCtlWyAujxahMCTULkhfcB7ApAmMwTMd1jfxyK1ylERD",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ4c2vf0HzT0YRNe6bEJtL_so",
+         "plus_code" : {
+            "compound_code" : "MWXX+JG Gothenburg",
+            "global_code" : "9F9HMWXX+JG"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ4c2vf0HzT0YRNe6bEJtL_so",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 619
       },
       {
          "business_status" : "OPERATIONAL",
@@ -597,7 +456,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/117682145244497574519\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uEAXXq8U48_RyBnPDLiQtnyjbEbWBKUasIZ0p9Eqh8qtSxvnT9EfrmU8eltURf8Rybq0Vaibfa9THaHgGVHsMFEK9V9GJp0GonWdbY_vUydnjJ-OxlZ_bxdYu9kwbHmGCKryoySPvs8HwKZCup1oOa08iwOhp-hXZDkUKz4hfeNFAByH",
+               "photo_reference" : "Aap_uEAbFDnTXIXgdJn1Z2SpVn2fIPfn1s3DPlG_AF1diXC4R2M1nxH-Qblitkpp7HBUi8KSKou6wrxtwgraOwz2yla_EYlGGXtWLSTUbRiYo41ndGgei68OGPhxcQe0SB4_wqgZpVbgCBGkoI_9IT1wI0aFPg9W6pRXFd3PBZGtJc0tWcyT",
                "width" : 3848
             }
          ],
@@ -610,100 +469,6 @@
          "reference" : "ChIJfXcB_27zT0YRn_cGsJgRclQ",
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 30
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "formatted_address" : "Nils Erikssonplatsen Centralhuset, 411 03 Göteborg",
-         "geometry" : {
-            "location" : {
-               "lat" : 57.7091177,
-               "lng" : 11.9727236
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 57.71046377989271,
-                  "lng" : 11.97363757989272
-               },
-               "southwest" : {
-                  "lat" : 57.70776412010727,
-                  "lng" : 11.97093792010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-         "icon_background_color" : "#FF9E67",
-         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-         "name" : "Burger King",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 3024,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/114118451392288609524\"\u003ePaco Valera\u003c/a\u003e"
-               ],
-               "photo_reference" : "Aap_uEDZwpPuZ_iQAKq1KL6MGJuPp0qeuPyo0Ir1iVKS8VFa_sPX2LFDjMWeb2eBah93_lAybAvPl49iuOjaJyv1iB_hPpGFulpG1HsO7_1iF8hBHGam3FEUvgpP3Gh5JwAgs3k60IsBPIObXIUELxanJ9aS6-Gh2pdikpTtfy1JXQebmDrN",
-               "width" : 4032
-            }
-         ],
-         "place_id" : "ChIJs4TZdmPzT0YRIhmaBLj-jvs",
-         "plus_code" : {
-            "compound_code" : "PX5F+J3 Gothenburg",
-            "global_code" : "9F9HPX5F+J3"
-         },
-         "price_level" : 2,
-         "rating" : 2.6,
-         "reference" : "ChIJs4TZdmPzT0YRIhmaBLj-jvs",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 200
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "formatted_address" : "Odinsplatsen 11, 411 02 Göteborg",
-         "geometry" : {
-            "location" : {
-               "lat" : 57.70987659999999,
-               "lng" : 11.9848382
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 57.71128832989272,
-                  "lng" : 11.98621847989272
-               },
-               "southwest" : {
-                  "lat" : 57.70858867010728,
-                  "lng" : 11.98351882010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-         "icon_background_color" : "#FF9E67",
-         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-         "name" : "Odins Parkgrill",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 3840,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/106061793344721716529\"\u003eStefan B\u003c/a\u003e"
-               ],
-               "photo_reference" : "Aap_uEDZdI5kIkMfvZRtyJeeVcpFDR50hCJSiouREPYc8EChtSVmw0yjrzzn-Q1YYYAQuCvmxt9XF3jKoyM7-E3XpMKV5yvacvAigFrPGmp1f4JDQWxTvwT5JjCoQPFzOS1o6OYO8fORQXQYKHNVA5poSUq4ByipMjt24f8e5OPdD5K_67jo",
-               "width" : 5120
-            }
-         ],
-         "place_id" : "ChIJfYRpLHzzT0YRPzNRJXCbpaA",
-         "plus_code" : {
-            "compound_code" : "PX5M+XW Gothenburg",
-            "global_code" : "9F9HPX5M+XW"
-         },
-         "price_level" : 2,
-         "rating" : 4.1,
-         "reference" : "ChIJfYRpLHzzT0YRPzNRJXCbpaA",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 644
       },
       {
          "business_status" : "OPERATIONAL",
@@ -734,7 +499,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/104118337909916360438\"\u003efinnwest71\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uED4pYMka0qRqzytkXCokM8_f0fzrx2P_Q3NwIj6KaC-aoZ1QiTy-480BCPbF6jU82y5JYELlh4pKeH4liw1Tyg6NTCBRLZRdh2qGwHR3_aoE9BvOyv48RMQne73x9ec7rl3eenRVC4GWez4gmzTIGyCXReFFK8OOcy_IMxQN3HW-hqq",
+               "photo_reference" : "Aap_uECacfzJkqPu3RGav3GiJcSEQdB7e9fFpaWIU-xVxdmeTaPyLkxZCNWq8kYitoj1kNUil2HH_ecxY4hWyVmFk1UnFXazaMM7El-wL_FYNyfhpeZZDLt7qoAOk62mlCNWXgQZgXkW-_QIrwNYBaUbXOPE3q8tDdBZf-53U7nQr7ekJhLe",
                "width" : 3254
             }
          ],
@@ -747,59 +512,6 @@
          "reference" : "ChIJsfR44DXzT0YRcMekQlC1euw",
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 35
-      },
-      {
-         "business_status" : "OPERATIONAL",
-         "formatted_address" : "Engelbrektsgatan 34D, 411 35 Göteborg",
-         "geometry" : {
-            "location" : {
-               "lat" : 57.7000529,
-               "lng" : 11.9795775
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 57.70138292989274,
-                  "lng" : 11.98102362989272
-               },
-               "southwest" : {
-                  "lat" : 57.69868327010729,
-                  "lng" : 11.97832397010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-         "icon_background_color" : "#FF9E67",
-         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-         "name" : "Lasse på Heden Gatukök",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 4032,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/104154251964847312382\"\u003eChristopher Yung\u003c/a\u003e"
-               ],
-               "photo_reference" : "Aap_uEDB3AFpmoXX6aKoPiHlyyzn6Gad9YvOw7UvvU62z085CvjOxhSrQqcEv8uo5ehJmpzgE_1pU9o-fJYETbVuUrM7hxxb2Ta-0Cg7rHldXqBvuXRdg37oib7SklcosidC8TNQYJImT_-CuMhIRoEqDADt4zoOzUYo5J2ZjIdqOZ5cjzYp",
-               "width" : 3024
-            }
-         ],
-         "place_id" : "ChIJWxncf3DzT0YR-uFG0p3WUFQ",
-         "plus_code" : {
-            "compound_code" : "PX2H+2R Gothenburg",
-            "global_code" : "9F9HPX2H+2R"
-         },
-         "price_level" : 2,
-         "rating" : 4.2,
-         "reference" : "ChIJWxncf3DzT0YR-uFG0p3WUFQ",
-         "types" : [
-            "meal_takeaway",
-            "restaurant",
-            "food",
-            "point_of_interest",
-            "establishment"
-         ],
-         "user_ratings_total" : 1161
       },
       {
          "business_status" : "OPERATIONAL",
@@ -833,7 +545,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/109282310581511853706\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uED1v5SGhXwxx5335xts8ue5-d4YgDOcdURq1_km-KJLoXyKY6VwtO6rbUNO-QI46EdhLeyesgaEx6vR2lT6Q9asfcmxTYui2aRd45-7_UtcJs00MkTkGsniBrLj1Qn4CeqheB1k7nJm_yBk8PiIE3dl7vebZ-Wnb6h1iw02lVkfC9zD",
+               "photo_reference" : "Aap_uEBRt6UuRHMurZo9V_haFxWwBLI7CVcHN98wOC5iEq5s--c1PXl00naMlPZtRozLYC-JQhU411onXKFIYo15PqTt4-ZBSz3e-4WS03GuQYJk2-JVNqeUD9C4Y9zViieIm9sfwo1M1p2n-lZ7qbweW7DkoUGWWE4Y5PtQH19cKNzRiS3C",
                "width" : 3024
             }
          ],
@@ -849,50 +561,55 @@
       },
       {
          "business_status" : "OPERATIONAL",
-         "formatted_address" : "Kvilletorget 20, 417 04 Göteborg",
+         "formatted_address" : "Kungstorget 18, 411 17 Göteborg",
          "geometry" : {
             "location" : {
-               "lat" : 57.7194663,
-               "lng" : 11.9486833
+               "lat" : 57.7033589,
+               "lng" : 11.9678242
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 57.72081612989273,
-                  "lng" : 11.95003312989272
+                  "lat" : 57.70468652989272,
+                  "lng" : 11.96956352989272
                },
                "southwest" : {
-                  "lat" : 57.71811647010728,
-                  "lng" : 11.94733347010728
+                  "lat" : 57.70198687010727,
+                  "lng" : 11.96686387010728
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
          "icon_background_color" : "#FF9E67",
          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-         "name" : "Barley's Food Factory",
+         "name" : "Burgersson",
          "opening_hours" : {
-            "open_now" : true
+            "open_now" : false
          },
          "photos" : [
             {
-               "height" : 3968,
+               "height" : 4032,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/104357765922878022537\"\u003eolof börjesson\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109646258511352321664\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uEAliyWdp2FZah6Ed3xTeNLpIVKyFqwHrfjEXHpO0ui_C_sSXFsYSKTmmSrVORQk8MOjL6LLUtHWpijYQZoFX6h6KnZP7u73zRvwzAgvPHlG0Dy3h17BBlrFjEmg9qM167cFp1YUFO6NLP2JsXeFMTinMlLXuIQC1bHKkqX0u8cCWGyO",
-               "width" : 2976
+               "photo_reference" : "Aap_uEAnw8dFqIa615NxkmCpPdI6lKH8A2LJbcnFOHDFvptoPBXFSv8E_FZMA4vDQOSOp_-idyVbPpIV5diyBFuJqbNYs2DHrx2c7qXf3w1GXGuZkmaqnGRvRiNgqEgMoRVBkTfzgcnbP-P-zqb_Y1XFjLwmcet9bd-rxsFZJIljS_kYzIxM",
+               "width" : 3024
             }
          ],
-         "place_id" : "ChIJ4z6QUqb0T0YREoVXwE1t2gY",
+         "place_id" : "ChIJiXINC_7zT0YRIGbPo0gpkUQ",
          "plus_code" : {
-            "compound_code" : "PW9X+QF Gothenburg",
-            "global_code" : "9F9HPW9X+QF"
+            "compound_code" : "PX39+84 Gothenburg",
+            "global_code" : "9F9HPX39+84"
          },
-         "price_level" : 2,
-         "rating" : 4.3,
-         "reference" : "ChIJ4z6QUqb0T0YREoVXwE1t2gY",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 879
+         "rating" : 4.1,
+         "reference" : "ChIJiXINC_7zT0YRIGbPo0gpkUQ",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 61
       },
       {
          "business_status" : "OPERATIONAL",
@@ -926,7 +643,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/110514348722052893180\"\u003eJohan\u003c/a\u003e"
                ],
-               "photo_reference" : "Aap_uECrLN7M7mXyYgVC-O_XSDSkkYyCe9nb4rdjM5qz3kcs73vy6-x7m-Ng8nEdZnp4ddbM5fLps3FqZO3eRfm7jCiznDkmVRGUZVkShaS1i-6yvN0MdJMQ70PuO0eVwlJCNImpIb4rHxcnIgV6k2m8WJ64DBqjkveiN4WTgXZhhwd-UP88",
+               "photo_reference" : "Aap_uEBrjQ1O4861ng60dX4peZ948fVycdVRKmip5VChANj-2X8FMujWwGnaRG6_tH9hfr-qfCowUDvnilvoIo3g7v0z6VBxyuHO1FvrNCf_A33vFbuDbuL96Osc4_k-DvPYfSrCVgQOx9E2EAa7KfeEysV9T1HrNjrKDkOSjiaXmxTKT1IE",
                "width" : 1536
             }
          ],
@@ -940,6 +657,284 @@
          "reference" : "ChIJi0nnHnDzT0YRwvhR-xBU36g",
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 827
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Skanstorget 4, 411 22 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6956228,
+               "lng" : 11.9590104
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.69701747989272,
+                  "lng" : 11.96026457989272
+               },
+               "southwest" : {
+                  "lat" : 57.69431782010728,
+                  "lng" : 11.95756492010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Burgersson",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117352343505438395573\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED9mz_EUsRqP7MaZkI05vZGDalCPkzJipPb2Y3SZpGdUlXzNkMKP7Jsoij7d9PfNpNrrDXi-Pdt6-lqlrrWA341yzA6QUmFW2E13u1gqMMgnaCk-HIwKZDJ9WjcZyFlrvnE8Ypcek31Sj9hdyLhYmNC9Zo8EZSvz8iO1ST9U8P6uNBu",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJbUenCWvzT0YRBfeM7topGRM",
+         "plus_code" : {
+            "compound_code" : "MXW5+6J Gothenburg",
+            "global_code" : "9F9HMXW5+6J"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJbUenCWvzT0YRBfeM7topGRM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 724
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Linnégatan 23, 413 04 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6959586,
+               "lng" : 11.9512174
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.69732417989271,
+                  "lng" : 11.95271332989272
+               },
+               "southwest" : {
+                  "lat" : 57.69462452010727,
+                  "lng" : 11.95001367010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Linné Burgers",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110032558745195108406\"\u003eBobby Kristensen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEALtxxLRrm-buAl_fIpNediGMSvjb4cY_9kviIjTf0hFpsJ4imi-SOGf9-WIZcWGpnTklTC8ByJrFVyGl4hASRoMngWQPgskx9UvExm65aToR3gYXkn-uW1etYPkWtgw2mZUlbF8oGf4SMAsb7W7CbQ2A4jd5kT4RxJfs5HjKPPkB5b",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJoWiglM3zT0YR1D8CayyKsjo",
+         "plus_code" : {
+            "compound_code" : "MXW2+9F Gothenburg",
+            "global_code" : "9F9HMXW2+9F"
+         },
+         "rating" : 4,
+         "reference" : "ChIJoWiglM3zT0YR1D8CayyKsjo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 117
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lorensbergsgatan 6, 411 36 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.70060650000001,
+               "lng" : 11.9764603
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70190872989273,
+                  "lng" : 11.97769602989272
+               },
+               "southwest" : {
+                  "lat" : 57.69920907010729,
+                  "lng" : 11.97499637010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Goods Basement",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104357765922878022537\"\u003eolof börjesson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC3dnVbHj_ZNWPcup0ZYn2d1xICpyFgGkudz-u-kTQ-W7zuXpKFEsNH37jRCibPpAFLOvUOlH-aPaIRM3ZZFVoFrsc_iAHhQOGiL14MIDz0Pj4y_WSrFe-vD4YWgjzCRmUmk2QOaCDorWKeiHm4rvYUMlRqY4TemPthQQGCGAlB0dxk",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJJYYUL8TzT0YRnSR61ezVPhc",
+         "plus_code" : {
+            "compound_code" : "PX2G+6H Gothenburg",
+            "global_code" : "9F9HPX2G+6H"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJJYYUL8TzT0YRnSR61ezVPhc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 120
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kyrkogatan 11, 411 15 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.7043737,
+               "lng" : 11.9627703
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70575892989271,
+                  "lng" : 11.96410077989272
+               },
+               "southwest" : {
+                  "lat" : 57.70305927010727,
+                  "lng" : 11.96140112010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "The Barn",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105107106064049391724\"\u003eStefan Liebich\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAZX-kgo60Xi03N3vfEowrFkz-2GKCPUMvnZ1i8fJo_HDSz4oa5VFPoa1zubdJxhUEtSimr7be1DP3KBUCAsh0eSijqTP3DE-fueeGTd6ExiCvJ8GO_IutEr0VJR7GoFiToCfzV6EauY6zFagxrV2DPQuA1zGqENEWsFy9QVXe_3HjY",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJK1IOMyqw6UMRzqyaMNgiVds",
+         "plus_code" : {
+            "compound_code" : "PX37+P4 Gothenburg",
+            "global_code" : "9F9HPX37+P4"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJK1IOMyqw6UMRzqyaMNgiVds",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2394
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "Kungsportsavenyen 29, 411 36 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.69926390000001,
+               "lng" : 11.9760194
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70067352989273,
+                  "lng" : 11.97751492989272
+               },
+               "southwest" : {
+                  "lat" : 57.69797387010728,
+                  "lng" : 11.97481527010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Vigårda",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107275057643125284957\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECRCgOwgQyNPEiNSk9S-bI6EhPx7Cfk8zybGvsUymggaKcLUSPJsH8TLi77yBg_VzPYZDxSYvqXyDWqlg-_LOEG2eEQxMmzjBQajs2_sX8-Pykq_KXYt_u64WOB5vH7D4cQh-dcIpkBW29sUWroWMiGrQ1dAz5ZZ4DECaGG4g6u0j5W",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJ3xZMAHHzT0YRk6xfZaiebaw",
+         "plus_code" : {
+            "compound_code" : "MXXG+PC Gothenburg",
+            "global_code" : "9F9HMXXG+PC"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJ3xZMAHHzT0YRk6xfZaiebaw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1178
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Postgatan 47, 411 06 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.70876759999999,
+               "lng" : 11.9708635
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.71003247989272,
+                  "lng" : 11.97233932989272
+               },
+               "southwest" : {
+                  "lat" : 57.70733282010728,
+                  "lng" : 11.96963967010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Burger King Nordstan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114118451392288609524\"\u003ePaco Valera\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAC5Q_nIwZ83O7i3f-996uw8SrLnpou30guTUP8DOmDBi49z_-FVUvXZSul4w2sPkNx-S8WTwYOflEkZEb42dVg_zpkHDz7ijcunOnFSPOcb7-_uYbTlZ0G_fRV2T3jXULZuMHyglBhX81AVJviiwII_Yy8ORBkoz9OxYxy0emJzU8k",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJV4q05GbzT0YRiKJJ2YCgCoA",
+         "plus_code" : {
+            "compound_code" : "PX5C+G8 Gothenburg",
+            "global_code" : "9F9HPX5C+G8"
+         },
+         "price_level" : 2,
+         "rating" : 2.9,
+         "reference" : "ChIJV4q05GbzT0YRiKJJ2YCgCoA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 94
       }
    ],
    "status" : "OK"
