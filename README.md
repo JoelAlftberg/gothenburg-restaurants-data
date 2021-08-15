@@ -6,9 +6,9 @@ A python project that uses the Google Places API to collect all the opening hour
 - Add possibility to show next 20 results with nextPageToken query
 - Store results in a .csv file
 - Create a list of different search terms to use
-- Function for iterating through restaurants and find opening hours
 - Visualize the data
 - Clean formatted address to just include the street 
+- Clean opening hours to contain numbers only
 
 ## 1. Getting the data
 
