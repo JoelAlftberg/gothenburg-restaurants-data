@@ -1,5 +1,928 @@
 {
    "html_attributions" : [],
-   "results" : [],
-   "status" : "INVALID_REQUEST"
+   "next_page_token" : "Aap_uEAvkYHHQ8-tQQ-BWoJvfKjl86Q2hQfbpmwBlQMhE76WykId4n--q1c4e6ltAl0q_w0tCTQT31i9xwPChmh5a2pdRmlbkDyqLi98lrG1PM3lMZNDlrvxLNJ3_Bfi88OJ1P7vQ3_8M4NteGB9BVgUIsBI6xd8iKHbEx3-HdLQb28A721RCL4vEx7WxbttRIv4RpPCP5nYNynVhA5-D0rDwZis7kM9uGtTseaW-L-xk-3Bzu_YAzeM_dHxMxXiPcea373ZaWrJPVLVlWAdy0peM1W0LEMJtYeMT0dCLqBg5u14xYlAzSkQtW7-VmNqQFrBWglJxTvHUGBjylxylVX9yEC0ujiwtuR20dzMKu60CNsSI_Eb8nkh3Vd-MPJ-21ZwkmaCpQ-Kl71H4CDz7sqgSAYPFdq7EqJaTnlmjxvrpF1f9jVcpiPMkAngqYdZskUtb-BeJ98QKo4",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Drottninggatan 56, 411 07 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.7064268,
+               "lng" : 11.9716282
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70775317989273,
+                  "lng" : 11.97299167989272
+               },
+               "southwest" : {
+                  "lat" : 57.70505352010728,
+                  "lng" : 11.97029202010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Poh-Keh - Hawaiian Food Culture",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115070666816585268731\"\u003eWilhelm Backman\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECyUDI7zFVbbDz2HxvJ_36MKl9cEcq3h6lRheVwT7Kp8zIIIDp4dOKjLlky5lcdED8VK6ZEvTwax2ZwQM2cUG__0u5tGJqtp5QMCiAzwAxKjVkVA7D5Dy3iHqD-djRny80CrAtrWo40R_fj7L6n9OZRA4QT_DEpHyXUuF9mbtNPO3Ig",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ-6gL4S7zT0YRKStc54dK05U",
+         "plus_code" : {
+            "compound_code" : "PX4C+HM Gothenburg",
+            "global_code" : "9F9HPX4C+HM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ-6gL4S7zT0YRKStc54dK05U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 103
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "411 03 Gothenburg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.70887,
+               "lng" : 11.97456
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70998822989272,
+                  "lng" : 11.97531317989272
+               },
+               "southwest" : {
+                  "lat" : 57.70728857010727,
+                  "lng" : 11.97261352010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Poké & Sunt",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113792978293766688830\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBc0MWud4oK8dYq0vVFbXl4rYG7yxfyXIfx3fqU3dnRlQB4UdKtuqMW_KQMNKtoLAFDCo2sIdrn28uNNt6igKPjoBgik54_DlgWlXgwcGaGSEPIypdJVjL6cmC52nMq9UDvw4gfhQmKznKi5oi4-TMpiMJqfYRcFJQHWzVDlEaDgfj2",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJc_O9ck2LT0YR5Q4BNdiXH-w",
+         "plus_code" : {
+            "compound_code" : "PX5F+GR Gothenburg",
+            "global_code" : "9F9HPX5F+GR"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJc_O9ck2LT0YR5Q4BNdiXH-w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kämpegatan 7, 411 04 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.71469299999999,
+               "lng" : 11.9726441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.71619642989272,
+                  "lng" : 11.97441437989272
+               },
+               "southwest" : {
+                  "lat" : 57.71349677010728,
+                  "lng" : 11.97171472010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Poh-Keh - Hawaiian Food Culture",
+         "photos" : [
+            {
+               "height" : 5056,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107465258244359192502\"\u003eMichael Pohl\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA0fbqS9FtA2j3tc5XOAgSTvYJU8UW9RYdGOx4NZ0Ajno-7d4rsA7lNvnwwVltsyB4JzFy7ChdUZT21SEHcMQksMzd32CHazpsX57LQOj8Xng0tm_uqg4W7TdOJ1iMRwAYWWhSYURmE1PHTpoOpyxKX8UxovwpSpyyNs9Z_YcDTG0oT",
+               "width" : 3792
+            }
+         ],
+         "place_id" : "ChIJfXndvz31T0YRRa5dD6F3qZw",
+         "plus_code" : {
+            "compound_code" : "PX7F+V3 Gothenburg",
+            "global_code" : "9F9HPX7F+V3"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJfXndvz31T0YRRa5dD6F3qZw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Teatergatan 22, 411 35 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.69992380000001,
+               "lng" : 11.9744362
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70123987989273,
+                  "lng" : 11.97570182989272
+               },
+               "southwest" : {
+                  "lat" : 57.69854022010728,
+                  "lng" : 11.97300217010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Poh-Keh - Hawaiian Food Culture",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113247735393977284233\"\u003eSpanskindustriglass\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED6jxrIPWHo0H_GNarQmBSSAxbvTsyWjQfiHdQ4ZDhSvpjnOxibIPnVoqCEPKI2ESq2fb1r6xRnOYxUpcfoWW2WW7l1r-QuP6hIdAMUfvq-rrtNQzZdUZK-hGgPu5wyCwNKtSLxvBhHp87cLKhIlfnhcUUkwMp-zdX1OmA5rh-M6iDd",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJJ9ifJLrzT0YRXDM1vDpz6ck",
+         "plus_code" : {
+            "compound_code" : "MXXF+XQ Gothenburg",
+            "global_code" : "9F9HMXXF+XQ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJJ9ifJLrzT0YRXDM1vDpz6ck",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 156
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Krokegårdsgatan 5, 417 05 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.72193480000001,
+               "lng" : 11.951714
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.72315747989274,
+                  "lng" : 11.95274537989272
+               },
+               "southwest" : {
+                  "lat" : 57.72045782010729,
+                  "lng" : 11.95004572010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "SushiPoke",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114424706250759965867\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC_hes6KPPbDHnTC4q26AWp9zfS6_ua0WAaPRCCc6DUgeMyMVDnIurvMI6qzB0tYrSTFUdLUJJ_VVprtCVyuBcI-6wz4PQEiBlkK4HPCCtfZNJLmWl3NEStzudYDni3ZN6eNRlCbA_JDLMyjjrfBBvaZhMZYA-gGGY4OzZveeSDtIV1",
+               "width" : 1908
+            }
+         ],
+         "place_id" : "ChIJH1X6HvL1T0YRna16WvJIyfc",
+         "plus_code" : {
+            "compound_code" : "PXC2+QM Gothenburg",
+            "global_code" : "9F9HPXC2+QM"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJH1X6HvL1T0YRna16WvJIyfc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 78
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Sankt Eriksgatan 8, 411 05 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.7097566,
+               "lng" : 11.9659135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.71115577989271,
+                  "lng" : 11.96745527989272
+               },
+               "southwest" : {
+                  "lat" : 57.70845612010727,
+                  "lng" : 11.96475562010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Takame",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106130141094603525624\"\u003eOlsun\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBcnyMrvZ5zcU4j2oy8Xh9986Sj1tx2LV21a-CiHo4LE4m9iH6-EH0CWCacfROSJJJQrH8WrORXH7N6EbGr6dr8JrMGA7qKyLQyVuQcevBjBDMLgYUkHeoEXAbfu1NWEMaU2wvi1XgjKMOJOUFyUnklzURNCUZ2m8yJjXBZEgw-PxoR",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQfgtiDPzT0YRUVlOT8wKRIw",
+         "plus_code" : {
+            "compound_code" : "PX58+W9 Gothenburg",
+            "global_code" : "9F9HPX58+W9"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJQfgtiDPzT0YRUVlOT8wKRIw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 687
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kungstorget 4, 411 17 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.703653,
+               "lng" : 11.9671328
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70498937989271,
+                  "lng" : 11.96849962989272
+               },
+               "southwest" : {
+                  "lat" : 57.70228972010727,
+                  "lng" : 11.96579997010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mr Shou Kungstorget",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113966148566291022783\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECZW1a4gfWKfy8wgcB8Igzryh-PejDfNASIb6k2pg1Y3uXJUZjiegcZVbp4WpfDF0MMzmOdxuXZUOJ4J6DDtD0yM5LU5aBdakNiJHah7Zt4l-QCGqStplbwrmaKb-uuYrpP9nQ4IH7va7-L2LsYJStMhlfXXzFRna6x0_BD76C6uuSn",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJJ6FnjGXzT0YRNTFR5rECB6U",
+         "plus_code" : {
+            "compound_code" : "PX38+FV Gothenburg",
+            "global_code" : "9F9HPX38+FV"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJJ6FnjGXzT0YRNTFR5rECB6U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 403
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Nordenskiöldsgatan 1, 413 09 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6926652,
+               "lng" : 11.9554408
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.69396797989273,
+                  "lng" : 11.95671897989272
+               },
+               "southwest" : {
+                  "lat" : 57.69126832010728,
+                  "lng" : 11.95401932010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Geisha Sushi & Wok",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112212846125846790448\"\u003eJonas\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDNTiD4PcgkzxIj5vgYlE2Gkvb6aWCR8i4Aakf0_7z2ut7aKgvNH3stOP0VqvJbh1BY0gznDjBW54NvwWrmXfOZcqyv0eklYDAXWQrU6HgIQbfhoe2FYt5kFnKSsEouwNuAMkkcYIheGvfnzo2bd8he47u8Ol59b2ZY3rzxMBoClJwD",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJWVfr1BTzT0YRK5RS7WdlaMM",
+         "plus_code" : {
+            "compound_code" : "MXV4+35 Gothenburg",
+            "global_code" : "9F9HMXV4+35"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJWVfr1BTzT0YRK5RS7WdlaMM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 306
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kyrkogatan 31, 411 08 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.705432,
+               "lng" : 11.9697289
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70682537989271,
+                  "lng" : 11.97105492989272
+               },
+               "southwest" : {
+                  "lat" : 57.70412572010727,
+                  "lng" : 11.96835527010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Amoshi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114158927182817284329\"\u003eChris Helin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDVgz2-IVsAiaLmXKlyWGbkJhaVPQ8OHbl4Fw_nDywXcv-FoA1EeJweBvlscNCVsxwbjC9ODr65RH8NkXDib1fLYmJVDfSBGsXbrrcZxLeD1GaRNakKsN7WxjFtjijluSp3tRbNr1v5Hod2Lblv3RxtVVnUrs5zLNjuOPQedGBLSIg_",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJq9ohiunzT0YRbOdRISmvpnc",
+         "plus_code" : {
+            "compound_code" : "PX49+5V Gothenburg",
+            "global_code" : "9F9HPX49+5V"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJq9ohiunzT0YRbOdRISmvpnc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 168
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Postgatan 39, 411 06 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.7082731,
+               "lng" : 11.9687243
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70927672989272,
+                  "lng" : 11.96984987989272
+               },
+               "southwest" : {
+                  "lat" : 57.70657707010727,
+                  "lng" : 11.96715022010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "slimfood",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114563057076197811157\"\u003eLudvig Lagerfors\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECNvqO5F32BO5UuboywGALrHBhHDqd4A9StWR37CJvS22UsI3qxVVEDLTRrqxVs-g8B18sSn1G1SWgLnmYGaKul3LzP-19QitfGyr5vE6OfCo3Har162S8h52X387yBnyNfWPXRpPvAAwGcmrt_MEnE4g4J3AMVHhhbq3BQOdr9YtAH",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJMdn9EGTzT0YR6J_miGBNN8k",
+         "plus_code" : {
+            "compound_code" : "PX59+8F Gothenburg",
+            "global_code" : "9F9HPX59+8F"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJMdn9EGTzT0YR6J_miGBNN8k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 95
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lindholmsallén 26, 417 53 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.7091913,
+               "lng" : 11.9408699
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.71060022989272,
+                  "lng" : 11.94210582989272
+               },
+               "southwest" : {
+                  "lat" : 57.70790057010728,
+                  "lng" : 11.93940617010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Poh-Keh",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1110,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100796256055961762459\"\u003ePhelicia Lam Pagh\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDbnBHGJYfBV0qeMCkSiyd6f5RCN6QMqe6LLt4Fc6V7Oisv_tPkc8QXV-66-iCqV4YY4qrhvKsLYBVaruIQDMZNUxdcoBMcBfMSjD6_68iN79qnIyIqwOxO4B-ksizDHQxhPj7wAru943_D7vK-YbEocXgQbWeLbBfKj-5VOn_-XLjS",
+               "width" : 1125
+            }
+         ],
+         "place_id" : "ChIJpaebsaHzT0YRxxtWXtYdoD0",
+         "plus_code" : {
+            "compound_code" : "PW5R+M8 Gothenburg",
+            "global_code" : "9F9HPW5R+M8"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJpaebsaHzT0YRxxtWXtYdoD0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Esperantoplatsen, 411 19 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.70213019999999,
+               "lng" : 11.9560589
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70352222989271,
+                  "lng" : 11.95703642989272
+               },
+               "southwest" : {
+                  "lat" : 57.70082257010727,
+                  "lng" : 11.95433677010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mayday",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115009856748234044553\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECjOnKZhaY5ZpGPmH6Ck1sEwqjjWSo-MEUvCJO7MDx-H2KlvPM3BAjRm4kzWIyHGgvO87-YJOpqk5Ea_qs1lno1zZwv6rqosPQ0emmdrNRAFIm3mLONgFrjVskEmlSeGcm50dhMt-cALrrsLs8eTJSDIceIbOLkfwOA1DMThZNMUiZp",
+               "width" : 1701
+            }
+         ],
+         "place_id" : "ChIJTzIIO2jzT0YRRUB6-bI6IIQ",
+         "plus_code" : {
+            "compound_code" : "PX24+VC Gothenburg",
+            "global_code" : "9F9HPX24+VC"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJTzIIO2jzT0YRRUB6-bI6IIQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Postgatan 32, 411 06 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.70858899999999,
+               "lng" : 11.9693202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.71032097989272,
+                  "lng" : 11.97056752989272
+               },
+               "southwest" : {
+                  "lat" : 57.70762132010727,
+                  "lng" : 11.96786787010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sushi Yama Express",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101365119531361600691\"\u003eEmil\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEByEE5FfN7jHOSxIJi8q-Y8388--lRgiMQLpUq3n7LtBfhNbyLoHR-lo9fqr1hmjpfN8OT_xF_QQ-MT-vwOU8t_pPnwOisA60YuXeCtUEELu72sspsgVlztlNYAE1qKif9H5yQxlP7zHKDt2QavM_F9aMB7oTOAkCQWoXtmY_GXFW6s",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJy7gndGTzT0YRz_COwB_dibc",
+         "plus_code" : {
+            "compound_code" : "PX59+CP Gothenburg",
+            "global_code" : "9F9HPX59+CP"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJy7gndGTzT0YRz_COwB_dibc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 245
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Övre Husargatan 17, 413 14 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6936714,
+               "lng" : 11.9565782
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.69499102989273,
+                  "lng" : 11.95802412989272
+               },
+               "southwest" : {
+                  "lat" : 57.69229137010728,
+                  "lng" : 11.95532447010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Yoshi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2236,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101622997397758484570\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBnrrZ9Gsp-yzCSWkKECJic0pjbBbXcOmXb_lHqVsi7fB9c8YXMR4Qrgf8bHpFacAzs3SjCnLRPMZ9kQEHT5kRHF_zVhg6kVEgYOxSBCSMLuM_UiExXB6XibT5e-JPdIzuvPz1dE--j_rb2WBGQu70vG_hMPfkxOGMGGORcGXJBEAPF",
+               "width" : 1905
+            }
+         ],
+         "place_id" : "ChIJe7zOJGvzT0YRHTDAIhLUzNQ",
+         "plus_code" : {
+            "compound_code" : "MXV4+FJ Gothenburg",
+            "global_code" : "9F9HMXV4+FJ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJe7zOJGvzT0YRHTDAIhLUzNQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 133
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Göteborgsvägen 5, 431 30 Mölndal",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6564074,
+               "lng" : 12.016494
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.65775722989272,
+                  "lng" : 12.01784382989272
+               },
+               "southwest" : {
+                  "lat" : 57.65505757010727,
+                  "lng" : 12.01514417010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sushi Thai King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5504,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104645859772947089954\"\u003eAxel Jönemyr\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDZptQGVJg-QKj8FoAxpAOg7kezmFmoXuJEiBdSf1N2eLL72D6iBeZgwGT-XrqJ9YMN1l3XVKoMxNL_gOOJwS0yq_v_MFNOqZ38S7k36fu_7swFBRbcehA2jN7OX3Ioq6qKEf4xkKD5HmJHrFz7LzqXooR2qJM1uElmdX7-T1Vc5DC4",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJddc7EjHyT0YRXaWcvQX8kfQ",
+         "plus_code" : {
+            "compound_code" : "M248+HH Mölndal",
+            "global_code" : "9F9JM248+HH"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJddc7EjHyT0YRXaWcvQX8kfQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1223
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lilla Kyrkogatan 3, 411 15 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.70498059999999,
+               "lng" : 11.9649361
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70633772989272,
+                  "lng" : 11.96633902989272
+               },
+               "southwest" : {
+                  "lat" : 57.70363807010727,
+                  "lng" : 11.96363937010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_pinlet",
+         "name" : "JOS",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103267984470139226102\"\u003eEmelie Andersson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECGKOj5yn1a5gc_Ir9GQPa20JObZ1tl7MtG0lT_nDHIOlhvinV8r5pAp5XsmmQ6uGPP2SlDdXjJHSETH44W4gpQrT9hn1E1V-tbyNiZt23BwUH_poD-8wQg6krfq2hFK8RJe96cqpwUTgrRIbx7HgI7VK0v0nGLbe2Y_dKxLzsFlVrq",
+               "width" : 1908
+            }
+         ],
+         "place_id" : "ChIJK7lxdWbzT0YRZUvdykcqdrc",
+         "plus_code" : {
+            "compound_code" : "PX37+XX Gothenburg",
+            "global_code" : "9F9HPX37+XX"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJK7lxdWbzT0YRZUvdykcqdrc",
+         "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 208
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "Friggagatan 9C, 411 04 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.7106595,
+               "lng" : 11.987186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.71203967989272,
+                  "lng" : 11.98848357989272
+               },
+               "southwest" : {
+                  "lat" : 57.70934002010727,
+                  "lng" : 11.98578392010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "ASIAN Corner",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106208748577376278688\"\u003eStefan Eriksson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDBNBroY9Tx65azFLLPEjXHsQ6R9FO84B3R3m2FE9GK7MYLPJliEyvm9IjMCMPJxe824hpOhQ8nec83LwSWNDMNK8aqlzxALQAaIxXqnuwKgLwU218LPXwwnMQeduqY-2hr_yNdzCFed-IfhUP6Ojg4kR1FgpFp7VUcRZ1jQgUUWZM4",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJeaggZX7zT0YR8FyRfsOWSo4",
+         "plus_code" : {
+            "compound_code" : "PX6P+7V Gothenburg",
+            "global_code" : "9F9HPX6P+7V"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJeaggZX7zT0YR8FyRfsOWSo4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 169
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Postgatan 26, 411 06 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.7084999,
+               "lng" : 11.9697541
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70955397989272,
+                  "lng" : 11.97131622989272
+               },
+               "southwest" : {
+                  "lat" : 57.70685432010728,
+                  "lng" : 11.96861657010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sushi Yama",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114563057076197811157\"\u003eLudvig Lagerfors\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECKX2aeuFmOgVVEUWlXT53eBsjC3CThnajjcPadJEPIJMNA6SwdoXojjAXiXjkx2fAa7P7fUcft-RljMej8PsLtA78iVW_XUpeL3aIorDeIG9Wl9e0Gv6oQpNd8mrUf1L1dA9JHvhZZThmguwnKsxNokZXSwo0-k1y8xtD5Jhwd7OO1",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ_zpS5gDzT0YRXob3oSrpDEw",
+         "plus_code" : {
+            "compound_code" : "PX59+9W Gothenburg",
+            "global_code" : "9F9HPX59+9W"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ_zpS5gDzT0YRXob3oSrpDEw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Stenpiren 1, 411 21 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.7061462,
+               "lng" : 11.9574755
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.70774937989272,
+                  "lng" : 11.96061695
+               },
+               "southwest" : {
+                  "lat" : 57.70504972010728,
+                  "lng" : 11.95642835
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Sushi Yama",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104785971055860638198\"\u003eJuan Wendeus\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDJS9cYWmP33MIfJWt5DV6QBhaiMyp_qAYyK6_P8v2_ZywjvlvgB9N4U-fsqfQKVhBhCZShdW5IkW73iK2tT-AfdHaueB5PwWcTViwxn-RN5YUR9WtP_ut3uixlOVpwLPyjCZffQeZHH7RQpPSxRb1WkhHUKpGubU6I-LnqkItmIzJz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJsacvhWfzT0YR795ErPdGUB8",
+         "plus_code" : {
+            "compound_code" : "PX44+FX Gothenburg",
+            "global_code" : "9F9HPX44+FX"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJsacvhWfzT0YR795ErPdGUB8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 291
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Falkenbergsgatan 3, 412 85 Göteborg",
+         "geometry" : {
+            "location" : {
+               "lat" : 57.6817635,
+               "lng" : 12.000463
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.68311732989272,
+                  "lng" : 12.00181012989272
+               },
+               "southwest" : {
+                  "lat" : 57.68041767010728,
+                  "lng" : 11.99911047010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Asiana",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103771133798849686350\"\u003eRasmus\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECRtgkDKq2y6kxzd86Q-V_piwDzlkrMoEOfWITps1DPwEUdlVXdm63yvlNl7dUvzjdYsOObBXfYFwGJs3_c_80i6rtjgo9aIMMir-vfYZlCqHisRZokAZtUBhwhHSQFXNg-TlaLrK7ZJVCgJy7o_TLQjf8NfBxn1VxOREGgjmZxWpfw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJBWlsairzT0YRdZGPPs3vi0s",
+         "plus_code" : {
+            "compound_code" : "M2J2+P5 Gothenburg",
+            "global_code" : "9F9JM2J2+P5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJBWlsairzT0YRdZGPPs3vi0s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 65
+      }
+   ],
+   "status" : "OK"
 }
