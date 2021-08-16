@@ -22,7 +22,10 @@ I used this resource from the Places documentation to find out how to structure 
 The entities/rows we want are the Restaurants in Gothenburg.\
 The attributes/fields we want he data to have are; opening hours, rating and total amount of ratings.
 
-### 1.3 Formatting the data
+### 1.3 Several GET-requests and the next_place_token enigma
+To get the data for different types of restaurants I had to do a series of queries. This takes time.
+
+### 1.4 Formatting the data
 Basically no cleaning was needed, I could just input the data from the json we got from the queries into a dictionary and then into a Pandas dataform.
 A minor problem is that by using the Text Search query, we don't query the opening hours. It seems that you need to do a specific query against\
 the restaurant and ask for the opening hours. This means we need to loop through the dictionary we created from the json\
