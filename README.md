@@ -1,5 +1,5 @@
 # Opening hours of restaurants in the Gothenburg area
-A python project that uses the Google Places API to collect all the opening hours of restaurants in the Gothenburg area, then stores it in a .csv file.
+A jupyter notebook that uses the Google Places API to collect all the opening hours of restaurants in the Gothenburg area, then stores it in a .csv file.
 
 ## What I learned
 
