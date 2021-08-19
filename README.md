@@ -26,9 +26,13 @@ The attributes/fields we want he data to have are; opening hours, rating and tot
 ### 1.3 Several GET-requests and the next_place_token enigma
 To get the data for different types of restaurants I had to do a series of queries. This takes time.
 
-### 1.4 Formatting the data
+## 2 Formatting the data
 Basically no cleaning was needed, I could just input the data from the json we got from the queries into a dictionary and then into a Pandas dataform.
 A minor problem is that by using the Text Search query, we don't query the opening hours. It seems that you need to do a specific query against\
 the restaurant and ask for the opening hours. This means we need to loop through the dictionary we created from the json\
 and create a separate function to populate the dict with another column where we append the opening hours.
 
+## 2.1 Making the data easier to query
+To make it easier to query and visualize I created a new column where I gave each row a "rating_group" based on their\
+rating value. It was then easier to query the data for "excellent" restaurants for example. The goal might be to use these\
+as separate .csv files when looking for good restaurants and checking if they are open at a certain date/time.
