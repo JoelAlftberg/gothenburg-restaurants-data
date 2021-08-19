@@ -1,6 +1,12 @@
 # Opening hours of restaurants in the Gothenburg area
 A python project that uses the Google Places API to collect all the opening hours of restaurants in the Gothenburg area, then stores it in a .csv file.
 
+## What I aim to learn
+
+- To use Pandas and the concept of dataframes
+- How to query an API and effectively store the data
+- How to clean data
+
 ## TO-DO
 
 - [ ] Store results in a .csv file
