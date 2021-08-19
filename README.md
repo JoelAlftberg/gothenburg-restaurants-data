@@ -3,11 +3,12 @@ A python project that uses the Google Places API to collect all the opening hour
 
 ## TO-DO
 
-- Store results in a .csv file
-- Visualize the data
-- Clean formatted address to just include the street 
-- Clean opening hours to contain numbers only
-- Join tables on placeId
+- [ ] Store results in a .csv file
+- [X] Create rating groups such as "good", "bad"
+- [ ] Visualize the data
+- [ ] Clean formatted address to just include the street 
+- [ ] Clean opening hours to contain numbers only
+- [ ] Join tables on placeId
 
 ## 1. Getting the data
 
